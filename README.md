@@ -4,7 +4,7 @@
 Hey there! I'm Hamish, a passionate developer who loves to build cool stuff.
 
 ## Website
-🌐 [Visit my website](https://www.yourwebsite.com)
+🌐 [Visit my website](https://hamsandwich.xyz)
 
 ## Things I Use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
